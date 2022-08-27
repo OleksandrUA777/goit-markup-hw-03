@@ -174,8 +174,8 @@ img {
   color: var(--main-white);
   background-color: var(--main-hover);
 }
-.solutions-button:hover,
-.solutions-button:focus {
+.solutions__button:hover,
+.solutions__button:focus {
   background-color: #188ce8;
 }
 
@@ -214,14 +214,13 @@ img {
 }
 .advantages-list__header {
   font-weight: 700;
-  font-size: 14px;
+
   line-height: 1.2;
   text-transform: uppercase;
 
   margin-bottom: 10px;
 }
 .advantages-list__subtitle {
-  font-size: 14px;
   line-height: 1.7;
 
   width: 270px;
@@ -244,7 +243,6 @@ img {
 }
 .work-list {
   display: flex;
-  flex-wrap: wrap;
   gap: 30px;
 }
 .work-list__item {
@@ -427,10 +425,7 @@ img {
 
   color: var(--main-hover);
 }
-.address {
-}
-.list {
-}
+
 .f-nav {
   line-height: 1.7;
 }
