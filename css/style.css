@@ -377,8 +377,8 @@ img {
 .cards-list__item {
   width: calc((100% - 60px) / 3);
 
+  border: 1px solid #eeeeee;
   background: #ffffff;
-  border-bottom: 1px solid #eeeeee;
 }
 .cards-list__container {
   padding-top: 20px;
