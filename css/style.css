@@ -214,6 +214,7 @@ img {
 }
 .advantages-list__header {
   font-weight: 700;
+  font-size: 14px;
 
   line-height: 1.2;
   text-transform: uppercase;
@@ -314,7 +315,7 @@ img {
   display: flex;
   justify-content: center;
   gap: 8px;
-  margin-bottom: 30px;
+  margin-bottom: 50px;
 }
 .btn-list__item {
 }
